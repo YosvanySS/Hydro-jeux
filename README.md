@@ -6,7 +6,7 @@ A game developed in Python (using the Pygame library) to help children understan
 > [PyGame](https://www.pygame.org/docs/) has to be installed in your Python environment.
 
 > [!TIP]
-> Intallation using pip:
+> Installing Pygame using pip:
 > ```
 > pip install pygame
 > ```
